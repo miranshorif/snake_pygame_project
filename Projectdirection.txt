@@ -1,0 +1,2 @@
+This ia a Snake Py game Project.In This projects a snake is run a rectangle
+and eat stone for it's LIVE.if eat a stone score increase 1.
